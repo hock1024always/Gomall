@@ -1,2 +1,2 @@
-# Gomall
-cloudwego学习项目——抖音电商
+# gomall
+字节跳动青训营后端项目---抖音商城
